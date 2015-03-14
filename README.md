@@ -1,2 +1,2 @@
 # hello-world
-Trying out my first git repo.
+Trying out **my first** git repo.
